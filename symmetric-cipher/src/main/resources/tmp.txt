@@ -1,0 +1,1 @@
+The following are top voted examples for showing how to use javax.crypto.spec.IvParameterSpec. These examples are extracted from open source projects. You can vote up the examples you like and your votes will be used in our system to generate more good examples.
